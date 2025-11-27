@@ -1,6 +1,4 @@
-# PowerBI-VOIS-
-
- **Global Superstore Profit Analysis using Power BI**  
+# Global Superstore Profit Analysis using Power BI**  
 
 **Project Description**  
 This Power BI project analyzes the profit trends of a global superstore, identifying key insights such as top-performing regions, sales trends, and profitability across different product categories. The goal is to provide data-driven insights for better decision-making.  
